@@ -1,0 +1,8 @@
+{
+  "name": "tenho-fome-backoffice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ErickScur/tenho-fome-backoffice.git",
+  "author": "Erick Scur <erickscur@gmail.com>",
+  "license": "MIT"
+}
